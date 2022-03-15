@@ -7,4 +7,5 @@ return {
 	window_close_confirmation = "NeverPrompt",
 	initial_cols = 999,
 	initial_rows = 999,
+	color_scheme = "Catppuccin",
 }

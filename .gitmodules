@@ -1,0 +1,3 @@
+[submodule "submodules/catpuccin"]
+	path = submodules/catpuccin
+	url = https://github.com/catppuccin/WezTerm
