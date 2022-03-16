@@ -3,4 +3,6 @@
 set -e
 git submodule update --init
 
-ln -s ./submodules/catpuccin/Catppuccin.toml ./colors/Catppuccin.toml
+mkdir -p ./colors
+
+ln -s "$HOME/.config/wezterm/submodules/catpuccin/Catppuccin.toml" "$HOME/.config/wezterm/colors/Catppuccin.toml"
