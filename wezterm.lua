@@ -8,4 +8,5 @@ return {
 	initial_cols = 999,
 	initial_rows = 999,
 	color_scheme = "Catppuccin",
+	check_for_updates = false,
 }
